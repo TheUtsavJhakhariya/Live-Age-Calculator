@@ -1,0 +1,19 @@
+ body {
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11a0cc95-aa8d-48be-bc47-e55baa6ecacc/dfvm6da-2636c75e-70bf-4798-9cc0-22cf79bf2768.jpg/v1/fill/w_1280,h_718,q_75,strp/luminous_rainy_city_by_mholtsmeier_dfvm6da-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvMTFhMGNjOTUtYWE4ZC00OGJlLWJjNDctZTU1YmFhNmVjYWNjXC9kZnZtNmRhLTI2MzZjNzVlLTcwYmYtNDc5OC05Y2MwLTIyY2Y3OWJmMjc2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.c4aTFx6pjnfWXMJyvNaM1mqb6wDV0CqIZFEcp8Hd6r0');
+            background-size: cover;
+            font-size: 100%;
+            color: #ffffff;
+            text-align: center;
+        }
+
+        #age {
+            font-size: 150px;
+            margin-bottom: 20%;
+            font-weight: bolder;
+            color: #ffffff;
+        }
+        p{
+            font-size: 35px;
+        }
