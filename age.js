@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function()
                 const ageInDecimal = ageInSeconds / 31536000;
 
                 document.getElementById("age").textContent = ageInDecimal.toFixed(10);
-            }
+            } 
 
             setInterval(calculateAge, 100);
         });
