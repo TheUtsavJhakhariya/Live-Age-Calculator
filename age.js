@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function()
             }
 
             function calculateAge() 
-            {
+            { 
                 const currentTime = new Date();
                 const ageInMilliseconds = currentTime - birthdate;
                 const ageInSeconds = ageInMilliseconds / 1000;
