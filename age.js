@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function()
             if (isNaN(birthdate)) 
             {
                 document.getElementById("age").textContent = "Invalid Date";
-                return; 
+                return;  
             }
 
             function calculateAge() 
